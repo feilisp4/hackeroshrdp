@@ -1,5 +1,5 @@
 1. Create a free NGROK Account to configure the tunnel
-https://ngrok.com/
+https://ngrok.com/ (have registe f**@163.com)
 2. Download VNC Viewer install it
 https://www.realvnc.com/en/connect/download/viewer/
 3. Now Click "Open in Colab"
